@@ -1,0 +1,5 @@
+{
+  "name": "Phased Node Tree Visualizer",
+  "description": "A web application to create and visualize a tree-like structure of nodes organized into phases. Users can define nodes, assign them to phases, establish parent-child relationships, and categorize them for better project planning and visualization.",
+  "requestFramePermissions": []
+}
